@@ -5,3 +5,5 @@ Continuando con lo trabajados en el lab 5 [https://github.com/JuanL-Code/st0263j
 
 1. Nos conectaremos por SSH al cluster
 2. En este caso haremos principalmente uso de Hive, Jupyter y Spark
+3. La documentacion de los procesos en EMR se encuentran en:  https://github.com/JuanL-Code/st0263-lab6/blob/main/st0263-2261-bigdata-lab6.pdf
+4. El notebook usado para el laboratorio se encuentra en: https://github.com/JuanL-Code/st0263-lab6/blob/main/jflopezg-lab6.ipynb
